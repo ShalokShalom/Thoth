@@ -1,5 +1,5 @@
 # Thoth
 
-This is repository has been split under [thoth-org](https://github.com/thoth-org/) organisation.
+This repository has been split to the [thoth-org](https://github.com/thoth-org/) organisation.
 
-All the project have now there own repository hosted [here](https://github.com/thoth-org/)
+All the projects have now their own repository hosted [here](https://github.com/thoth-org/)
